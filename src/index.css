@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pointer-events-none {
+  background: var(--gradient-background);
+  opacity: var(--gradient-opacity);
+}
+
